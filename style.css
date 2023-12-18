@@ -663,7 +663,7 @@ input[type="checkbox"]:checked ~ .sidebar{
     .newsletter {
         flex-direction: column;
         align-items: center;
-        background: url(./img/Layer\ 41\ pl.svg);
+        background: url(./img/Layer41pl.svg);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -768,7 +768,7 @@ input[type="checkbox"]:checked ~ .sidebar{
     .newsletter {
         flex-direction: column;
         align-items: center;
-        background: url(./img/Layer\ 41\ mob.svg);
+        background: url(./img/Layer41mob.svg);
         background-repeat: no-repeat;
         background-size: cover;
     }
